@@ -1,0 +1,18 @@
+{
+  "name": "schedule-timeline-react",
+  "private": true,
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "types": "src/index.tsx",
+  "scripts": {
+    "test": "jest -u --passWithNoTests --coverage=false",
+    "test:ci": "jest -u --passWithNoTests"
+  },
+  "devDependencies": {
+    "@emotion/styled": "^11.10.5",
+    "@emotion/react": "^11.10.5",
+    "date-fns": "^2.29.3",
+    "react": "^18.2.0",
+    "@types/react": "^18.0.25"
+  }
+}

@@ -1,0 +1,6 @@
+**/*.test.tsx
+**/*.test.ts
+**/*.stories.ts
+**/*.stories.tsx
+**/*.stories.mdx
+coverage/**
